@@ -67,6 +67,6 @@ function addTodo(){
 
     console.log(todoList)
     name.value = ''
-    // date.value = ''
+    date.value = ''
     renderList();
 }
